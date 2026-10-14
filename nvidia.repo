@@ -2,7 +2,7 @@
 name=kmod-nvidia
 baseurl=@@PATH@@
 enabled=1
-gpgcheck=1
+gpgcheck=0
 
 [nvidia-build]
 name=solopasha/nvidia-build
